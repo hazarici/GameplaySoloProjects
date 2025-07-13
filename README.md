@@ -10,3 +10,9 @@ This project documents my process of building a game system from scratch. All sy
 
 ## Movement and Jump System
 ![Movement & Jump](Screenshots/Movement_and_Jump.PNG)
+
+## Sprint and Crouch System
+![Sprint & Crouch](Screenshots/Sprint_and_Crouch.PNG)
+
+## Stamina System and Recovery Flow
+![Stamina & Recovery](Screenshots/Stamina_System_and_Recovery_Flow.PNG)
