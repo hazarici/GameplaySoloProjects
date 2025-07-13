@@ -8,4 +8,5 @@ This project documents my process of building a game system from scratch. All sy
 - Camera SpringArm + Look System
 - Sprint & Stamina System with Recovery Logic
 
-## Blueprint Examples
+## Movement and Jump System
+![Movement & Jump](Screenshots/Movement_and_Jump.PNG)
